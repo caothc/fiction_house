@@ -47,6 +47,7 @@ novel-front ： 前台web网站源码（独立项目，按需安装）
 novel-admin ：平台后台管理系统源码（独立项目，按需安装） 
 
 #### 软件架构
+
 前台web网站架构：Springboot+Mybatis+Mysql+Ehcache+Thymeleaf+Layui
 
 平台后台管理系统架构 : Springboot+Mybatis+Mysql+Redis+Thymeleaf+Layui+Bootstrap
